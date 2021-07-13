@@ -1,6 +1,6 @@
-- 👋 Hi, I'm Daniel Guerra, I'm 17 years old, and I'm a beginner in programming.
-- 👀 I’m interested in HTML, CSS, PHP, JavaScript etc.
-- 🌱 I’m currently learning HTML e CSS
+- 👋 Olá, sou Daniel Guerra, tenho 17 anos, e estou iniciando na programação.
+- 👀 Tenho interesse no desevolvimento Web, HTML, CSS, JavaScript etc.
+- 🌱 Estou aprendendo HTML, CSS e JavaScript no momento.
 - 📫 E-mail: danielespindolaguerr@hotmail.com
 
 <!---
